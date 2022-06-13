@@ -28,14 +28,14 @@ Muhammad Zidni Subarkah | M7312F2706 | Universitas Sebelas Maret
 Ricky Indra Gunawan | M2313F2719 | Universitas Siliwangi
 
 # How To Run Our Project ( Google Collaboratory )
-----------
+-----------
 1. Create Folder on your Gdrive
 2. Upload Dataset to your Gdrive folder
 3. Make sure you running notebook step by step 
 4. Enjoy :D
 
 # Final Model (.h5 format)
-----------
+-----------
 https://drive.google.com/drive/folders/1agiur7ZCdBL3uV5Gk8iytm7Ya_kj0Rx1?usp=sharing
 
 
